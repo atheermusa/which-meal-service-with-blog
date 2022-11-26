@@ -76,10 +76,10 @@ const Menu = () => {
                                 Blog
                             </a>
                             <a
-                                href="https://l4p5yx6nazw.typeform.com/to/M2QcZXtW"
+                                href={callToAction.href}
                                 className={`font-medium text-primary hover:text-secondary`}
                             >
-                                Sign Up
+                                {callToAction.text}
                             </a>
                         </div>
                     </nav>
@@ -137,6 +137,12 @@ const Menu = () => {
                                         {item.name}
                                     </ReactLink>
                                 ))}
+                                <a
+                                    href="blog"
+                                    className="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50"
+                                >
+                                    Blog
+                                </a>
                             </div>
                             <a
                                 href={callToAction.href}
