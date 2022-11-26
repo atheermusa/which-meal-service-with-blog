@@ -1,0 +1,157 @@
+{
+    "company": {
+        "name": "Which meal service landing page",
+        "logo": "/assets/images/logo.png"
+    },
+    "navigation": [
+        {
+            "name": "About Us",
+            "href": "aboutUs"
+        }
+    ],
+    "callToAction": {
+        "text": "Get started",
+        "href": "#"
+    },
+    "mainHero": {
+        "title": "Whichmealservice",
+        "subtitle": "",
+        "description": "There are many meal kits available on the market, from ready-to-eat meals to recipe boxes",
+        "descriptionHowItWorks": "Our website enables you to compare meal kit subscription services available in the UK. Whether you're looking for the cheapest, healthiest, most sustainable or gluten-free option.",
+        "img": "/assets/images/cook.jpeg",
+        "primaryAction": {
+            "text": "Click here to compare meal kits",
+            "href": "https://l4p5yx6nazw.typeform.com/to/M2QcZXtW"
+        },
+        "secondaryAction": {
+            "text": "Email us",
+            "href": "mailto:issaafakattan@gmail.com?subject=I like react landing page!"
+        }
+    },
+    "howItWorks": {
+        "title": "How it works",
+        "description": "",
+        "items": [
+            {
+                "title": "Customer User Journey",
+                "descriptionOne": "Preparing home-cooked food for the week can take a long time and might be the last thing you want to do when you come home from work. “We're having pasta bolognese, again?” - we've all been there...",
+                "descriptionTwo": "There are talented chefs in your community who are keen to share their amazing home-cooked meals with you, help you prepare food for the week to come, and enable you to experience new cuisines all at the same time.",
+                "descriptionThree": "Are you on board?",
+                "cta": " Sign up here"
+            }
+        ],
+        "steps": [
+            [
+                {
+                    "id": 0,
+                    "src": "/assets/images/customerUserFlow/customerStepOne.png",
+                    "alt": "Step One: Register for an account"
+                },
+                {
+                    "id": 1,
+                    "src": "/assets/images/customerUserFlow/customerStepTwo.png",
+                    "alt": "Step Two: Pick a cuisine you want to try"
+                },
+                {
+                    "id": 2,
+                    "src": "/assets/images/customerUserFlow/customerStepThree.png",
+                    "alt": "Step Three: Pick a cook"
+                },
+                {
+                    "id": 3,
+                    "src": "/assets/images/customerUserFlow/customerStepFour.png",
+                    "alt": "Step Four: Order and pay"
+                },
+                {
+                    "id": 4,
+                    "src": "/assets/images/customerUserFlow/customerStepFive.png",
+                    "alt": "Step Five: Wait for your meals to be delivered!"
+                },
+                {
+                    "id": 5,
+                    "src": "/assets/images/customerUserFlow/customerStepSix.png",
+                    "alt": "Step Six: Leave a review"
+                }
+            ]
+        ]
+    },
+    "features": {
+        "title": "About Us",
+        "description": "We’re two friends who met at King's College London and are passionate about food and personal finance. Our mission is to help people make informed purchase decisions.",
+        "items": [
+            {
+                "name": "Tereza Rusova",
+                "description": "I am passionate about food, connecting people and celebrating diversity. I want to enable people to eat well, especially in the midst of a cost of living crisis.",
+                "icon": "/assets/images/Tereza.jpeg"
+            },
+            {
+                "name": "Atheer Musa",
+                "description": "I’m a software engineer. I’m passionate about building products that empower people and enrich their lives.",
+                "icon": "/assets/images/Atheer.jpeg"
+            }
+        ]
+    },
+    "pricing": {
+        "title": "Pricing",
+        "items": [
+            {
+                "name": "Free",
+                "price": "$0",
+                "priceDetails": "for one user",
+                "features": [
+                    "1 user",
+                    "Basic Support",
+                    "1 GB of storage",
+                    "Email support"
+                ]
+            },
+            {
+                "name": "Pro",
+                "price": "$15",
+                "priceDetails": "per user",
+
+                "features": [
+                    "5 users",
+                    "Priority Support",
+                    "10 GB of storage",
+                    "Phone and Email support"
+                ]
+            },
+            {
+                "name": "Enterprise",
+                "price": "$29",
+                "priceDetails": "per user",
+                "features": [
+                    "50 users",
+                    "24/7 Support",
+                    "100 GB of storage",
+                    "Phone and Email support"
+                ]
+            }
+        ]
+    },
+    "about": {
+        "sections": [
+            {
+                "name": "Something",
+                "href": "#",
+                "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+            },
+            {
+                "name": "Something",
+                "href": "#",
+                "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+            },
+            {
+                "name": "Something",
+                "href": "#",
+                "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+            },
+            {
+                "name": "Something",
+                "href": "#",
+                "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+            }
+        ]
+    }
+}
