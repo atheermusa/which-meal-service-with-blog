@@ -3,7 +3,7 @@
         {
             "imageSrc": "/assets/images/helloFresh.png",
             "imageAlt": "Hello fresh logo",
-            "offers": "50% off first delivery &bull; no delivery fees on first delivery",
+            "offers": "50% off first delivery \u2022 no delivery fees on first delivery",
             "name": "Hello Fresh",
             "description": "One of the most popular meal kits on the market offering fresh, pre-portioned ingredients and recipes delivered every week.",
             "price": "3.15",
@@ -24,7 +24,7 @@
         {
             "imageSrc": "/assets/images/helloFresh.png",
             "imageAlt": "Shoes",
-            "offers": "50% off first delivery &bull; no delivery fees on first delivery",
+            "offers": "50% off first delivery \u2022 no delivery fees on first delivery",
             "name": "Hello Fresh",
             "description": "One of the most popular meal kits on the market offering fresh, pre-portioned ingredients and recipes delivered every week.",
             "price": "3.15",
@@ -45,7 +45,7 @@
         {
             "imageSrc": "/assets/images/helloFresh.png",
             "imageAlt": "Shoes",
-            "offers": "50% off first delivery &bull; no delivery fees on first delivery",
+            "offers": "50% off first delivery \u2022 no delivery fees on first delivery",
             "name": "Hello Fresh",
             "description": "One of the most popular meal kits on the market offering fresh, pre-portioned ingredients and recipes delivered every week.",
             "price": "3.15",
