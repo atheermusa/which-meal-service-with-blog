@@ -9,6 +9,11 @@ module.exports = {
         'accent-7': '#333',
         success: '#0070f3',
         cyan: '#79FFE1',
+        primary: '#6547ec',
+        secondary: '#702ca1',
+        tertiary: '#99a0a3',
+        border: '#221a35',
+        background: '#ffffff',
       },
       spacing: {
         28: '7rem',
@@ -31,5 +36,15 @@ module.exports = {
       },
     },
   },
-  plugins: [],
+  plugins: [require('daisyui')],
+  daisyui: {
+    styled: true,
+    themes: true,
+    base: true,
+    utils: true,
+    logs: true,
+    rtl: false,
+    prefix: '',
+    darkTheme: 'dark',
+  },
 }
