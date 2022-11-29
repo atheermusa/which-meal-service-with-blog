@@ -1,67 +1,67 @@
 {
-    "cardsContent": [
-        {
-            "imageSrc": "/assets/images/helloFresh.png",
-            "imageAlt": "Hello fresh logo",
-            "offers": "50% off first delivery \u2022 no delivery fees on first delivery",
-            "name": "Hello Fresh",
-            "description": "One of the most popular meal kits on the market offering fresh, pre-portioned ingredients and recipes delivered every week.",
-            "price": "3.15",
-            "availableMeals": "45",
-            "score": "5",
-            "tags": [
-                "mealkit",
-                "veggie",
-                "pescatarian",
-                "mainland UK",
-                "Isle of Wight",
-                "The Isle of Man",
-                "Jersey",
-                "Guernsey",
-                "Northern Ireland"
-            ]
-        },
-        {
-            "imageSrc": "/assets/images/helloFresh.png",
-            "imageAlt": "Shoes",
-            "offers": "50% off first delivery \u2022 no delivery fees on first delivery",
-            "name": "Hello Fresh",
-            "description": "One of the most popular meal kits on the market offering fresh, pre-portioned ingredients and recipes delivered every week.",
-            "price": "3.15",
-            "availableMeals": "45",
-            "score": "5",
-            "tags": [
-                "mealkit",
-                "veggie",
-                "pescatarian",
-                "mainland UK",
-                "Isle of Wight",
-                "The Isle of Man",
-                "Jersey",
-                "Guernsey",
-                "Northern Ireland"
-            ]
-        },
-        {
-            "imageSrc": "/assets/images/helloFresh.png",
-            "imageAlt": "Shoes",
-            "offers": "50% off first delivery \u2022 no delivery fees on first delivery",
-            "name": "Hello Fresh",
-            "description": "One of the most popular meal kits on the market offering fresh, pre-portioned ingredients and recipes delivered every week.",
-            "price": "3.15",
-            "availableMeals": "45",
-            "score": "5",
-            "tags": [
-                "mealkit",
-                "veggie",
-                "pescatarian",
-                "mainland UK",
-                "Isle of Wight",
-                "The Isle of Man",
-                "Jersey",
-                "Guernsey",
-                "Northern Ireland"
-            ]
-        }
-    ]
+  "cardsContent": [
+    {
+      "imageSrc": "/assets/images/helloFresh.png",
+      "imageAlt": "Hello fresh logo",
+      "offers": "50% off first delivery \u2022 no delivery fees on first delivery",
+      "name": "Hello Fresh",
+      "description": "One of the most popular meal kits on the market offering fresh, pre-portioned ingredients and recipes delivered every week.",
+      "price": "3.15",
+      "availableMeals": "45",
+      "score": "5",
+      "tags": [
+        "mealkit",
+        "veggie",
+        "pescatarian",
+        "mainland UK",
+        "Isle of Wight",
+        "The Isle of Man",
+        "Jersey",
+        "Guernsey",
+        "Northern Ireland"
+      ]
+    },
+    {
+      "imageSrc": "/assets/images/helloFresh.png",
+      "imageAlt": "Shoes",
+      "offers": "Gousto",
+      "name": "Hello Fresh",
+      "description": "One of the most popular meal kits on the market offering fresh, pre-portioned ingredients and recipes delivered every week.",
+      "price": "3.15",
+      "availableMeals": "45",
+      "score": "5",
+      "tags": [
+        "mealkit",
+        "veggie",
+        "pescatarian",
+        "mainland UK",
+        "Isle of Wight",
+        "The Isle of Man",
+        "Jersey",
+        "Guernsey",
+        "Northern Ireland"
+      ]
+    },
+    {
+      "imageSrc": "/assets/images/helloFresh.png",
+      "imageAlt": "Shoes",
+      "offers": "50% off first delivery \u2022 no delivery fees on first delivery",
+      "name": "Hello Fresh",
+      "description": "One of the most popular meal kits on the market offering fresh, pre-portioned ingredients and recipes delivered every week.",
+      "price": "3.15",
+      "availableMeals": "45",
+      "score": "5",
+      "tags": [
+        "mealkit",
+        "veggie",
+        "pescatarian",
+        "mainland UK",
+        "Isle of Wight",
+        "The Isle of Man",
+        "Jersey",
+        "Guernsey",
+        "Northern Ireland"
+      ]
+    }
+  ]
 }
