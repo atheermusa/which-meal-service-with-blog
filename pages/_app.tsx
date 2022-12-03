@@ -36,6 +36,10 @@ const MyApp = ({ Component, pageProps }: AppProps) => {
                     name="viewport"
                     content="width=device-width, initial-scale=1.0"
                 />
+                <meta
+                    name="description"
+                    content="Online comparison tool to help users find the best meal service kit"
+                ></meta>
             </Head>
             {/* Global Site Tag (gtag.js) - Google Analytics */}
             <Script
