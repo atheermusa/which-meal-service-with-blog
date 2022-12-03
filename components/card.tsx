@@ -1,10 +1,17 @@
+import Image from "next/image";
+
 export default function Card(contents: any) {
     const { content } = contents;
 
     return (
         <div className="card w-80 bg-base-100 shadow-xl">
             <figure>
-                <img src={content.imageSrc} alt={content.imageAlt} />
+                <Image
+                    src={content.imageSrc}
+                    alt={content.imageAlt}
+                    height={300}
+                    width={320}
+                />
             </figure>
             <div className="card-body">
                 <div className="ml-2 uppercase text-xs font-semibold tracking-wider">

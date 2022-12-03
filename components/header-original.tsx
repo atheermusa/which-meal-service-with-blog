@@ -5,6 +5,7 @@ import { MenuIcon, XIcon } from "@heroicons/react/outline";
 import { Link as ReactLink } from "react-scroll";
 
 import config from "../config/index.json";
+import Image from "next/image";
 
 const Menu = () => {
     const { navigation, company, callToAction } = config;
@@ -34,10 +35,12 @@ const Menu = () => {
                                     <span className="sr-only">
                                         {companyName}
                                     </span>
-                                    <img
+                                    <Image
                                         alt="logo"
                                         className="h-16 w-auto sm:h-16"
                                         src={logo}
+                                        height={64}
+                                        width={64}
                                     />
                                 </a>
                                 <div className="-mr-2 flex items-center md:hidden">
