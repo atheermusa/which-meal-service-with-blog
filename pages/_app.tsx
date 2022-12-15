@@ -26,7 +26,11 @@ const MyApp = ({ Component, pageProps }: AppProps) => {
     return (
         <>
             <Head>
-                <title>Which meal service Landing Page</title>
+                <title>Whichmealservice Landing Page</title>
+                <link
+                    rel="manifest"
+                    href="../public/favicon/site.webmanifest"
+                />
                 <meta
                     name="keywords"
                     content="Which meal service Landing Page, meta, food"
@@ -39,6 +43,11 @@ const MyApp = ({ Component, pageProps }: AppProps) => {
                 <meta
                     name="description"
                     content="Online comparison tool to help users find the best meal service kit"
+                />
+                <meta name="theme-color" content="#6547ec" />
+                <meta
+                    name="ahrefs-site-verification"
+                    content="8a75fe9f26b8ba8bd048f93a7e8f6c0ab473936ae147a3c7169445a484a4c658"
                 ></meta>
             </Head>
             {/* Global Site Tag (gtag.js) - Google Analytics */}
