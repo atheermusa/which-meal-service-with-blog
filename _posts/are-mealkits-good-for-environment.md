@@ -4,7 +4,7 @@ excerpt: "Meal kits have become a popular way to cook at home, and many people,
 including us, are wondering if they are good for the environment. Let's
 take a closer look at the pros and cons of meal kits to see if they are
 really as green as they seem."
-coverImage: "/assets/blog/are-mealkits-good-for-environment/cover.jpeg""
+coverImage: "/assets/blog/are-mealkits-good-for-environment/cover.jpeg"
 date: "2023-01-01T05:35:07.322Z"
 author:
     name: Tereza Rusova
