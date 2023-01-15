@@ -1,25 +1,16 @@
 ---
-title: \"Are meal kits good for the environment?\"
-
-excerpt: \"Meal kits have become a popular way to cook at home, and many
-people, including us, are wondering if they are good for the
-environment. Let\'s take a closer look at the pros and cons of meal kits
-to see if they are really as green as they seem.\"
-
-coverImage: \"/assets/blog/are-meal-kits-worth-it/cover.jpg\"
-
-date: \"2023-01-27T05:35:07.322Z\"
-a
+title: "Are meal kits good for the environment?"
+excerpt: "Meal kits have become a popular way to cook at home, and many people,
+including us, are wondering if they are good for the environment. Let's
+take a closer look at the pros and cons of meal kits to see if they are
+really as green as they seem."
+coverImage: "/assets/blog/are-meal-kits-worth-it/cover.jpg"
+date: "2022-09-27T05:35:07.322Z"
 author:
-
-name: Tereza Rusova
-
-picture: \"/assets/blog/authors/tereza.jpeg\"
-
+    name: Tereza Rusova
+    picture: "/assets/blog/authors/tereza.jpeg"
 ogImage:
-
-url: \"/assets/blog/are-meal-kits-worth-it/cover.jpg\"
-
+    url: "/assets/blog/are-meal-kits-worth-it/cover.jpg"
 ---
 
 ### Are meal kits good for the environment?
