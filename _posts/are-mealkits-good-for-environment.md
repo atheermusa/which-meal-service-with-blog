@@ -37,13 +37,13 @@ Most also offer vegan or vegetarian options and some providers focus solely on v
 
 ### **4. B corp membership**
 
-Some meal kit companies go the extra mile when it comes to helping the planet as well as having a positive social impact and show this through the [B Corp Certification](https://www.bcorporation.net/en-us/certification). B Corp Certification is a designation that a business is meeting high standards of verified performance, accountability, and transparency on factors from employee benefits and charitable giving to supply chain practices and input materials. In the context of meal kits, this includes achieving Net Zero by 2030, using recycled packaging and paying attention to welfare and environmental considerations throughout their supply chain. Our website accounts for the environmental and social impact of UK meal kit provides by showing a Social and Environmental score for each. You can find this score next to other information about the meal kit provider on our [home page](https://www.whichmealservice.com/). We are also planning on exploring the topic of B corp certification in a future article so stay tuned!
+Some meal kit companies go the extra mile when it comes to helping the planet as well as having a positive social impact and show this through the [_B Corp Certification_](https://www.bcorporation.net/en-us/certification). B Corp Certification is a designation that a business is meeting high standards of verified performance, accountability, and transparency on factors from employee benefits and charitable giving to supply chain practices and input materials. In the context of meal kits, this includes achieving Net Zero by 2030, using recycled packaging and paying attention to welfare and environmental considerations throughout their supply chain. Our website accounts for the environmental and social impact of UK meal kit provides by showing a Social and Environmental score for each. You can find this score next to other information about the meal kit provider on our [_home page_](https://www.whichmealservice.com/). We are also planning on exploring the topic of B corp certification in a future article so stay tuned!
 
 ### What makes meal kits bad for the environment?
 
 ### **1. CO2 emitted during delivery**
 
-Meal kits are delivered straight to your door, which inevitably leads to some CO2 emissions. However, these might be actually \_lower\_ than the emissions from your local supermarket's supply chain, especially if you tend to buy ingredients sourced from far away. Some meal kit companies disclose this information and B Corp certification is also a good place to look at if you are after details statistics.
+Meal kits are delivered straight to your door, which inevitably leads to some CO2 emissions. However, these might be actually _lower_ than the emissions from your local supermarket's supply chain, especially if you tend to buy ingredients sourced from far away. Some meal kit companies disclose this information and B Corp certification is also a good place to look at if you are after details statistics.
 
 ### **2. Packaging**
 
