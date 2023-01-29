@@ -52,6 +52,6 @@ Many of the ingredients that you order as part of your weekly meal kit, such as 
 ### So are meal kits good for the environment?
 
 Well, that depends on your perspective. The truth is that there's no easy answer when it comes to the environmental impact of meal kits and the answer is usually relative. On the one hand, they can help reduce food waste and save energy by not requiring you to prepare more food than you need. But on the other hand, their packaging can be difficult to recycle and they often require refrigeration. At the end of the day, it's up to each individual to assess how the meal kits' environmental impact compares to the way they source their food already. Still, if you're looking for an easy way to cook
-healthy home-made meals without spending too much time in the kitchen, meal kits are a good solution.
+healthy home-made meals without spending too much time in the kitchen, meal kits are a good solution for you.
 
 **What do you think? What are some other pros and cons of meal kits?**
