@@ -2,7 +2,7 @@
 title: "5 reasons why meal kits are worth it"
 excerpt: "People love when they can get fresh, healthy ingredients with easy to follow recipes that don't require any guesswork. Plus, there are tons of different meal kit providers to choose from and all offer a variety of recipes, so you can find one that fits your taste and lifestyle. Here are 5 reasons why meal kits are worth it!"
 coverImage: "/assets/blog/is-hello-fresh-worth-it/cover.jpeg"
-date: "2022-01-30T05:35:07.322Z"
+date: "2023-01-30T05:35:07.322Z"
 author:
   name: Tereza Rusova
   picture: "/assets/blog/authors/tereza.jpeg"
