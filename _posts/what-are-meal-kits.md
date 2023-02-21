@@ -40,7 +40,7 @@ These meal kits cater to specific dietary needs, such as vegetarian, vegan, glut
 
 These meal kits offer ingredients and recipes from around the world, allowing you to explore new and exotic flavours in the comfort of your own home.
 
-### **6. Condiments kits**
+### **6. Condiment kits**
 
 These offer a collection of sauces, spices or spreads to help you spice up your cooking. They can be a great way of exploring new flavours and cuisines.
 
