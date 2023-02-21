@@ -22,25 +22,25 @@ There are several different types of meal kits available, each with their own un
 
 ### **1. Classic Meal Kits**
 
-These meal kits typically come with pre-portioned ingredients for a complete meal, including a protein, vegetables, and a starch, along with a recipe and cooking instructions. In the context of the UK, the most popular meal kit providers are Hello Fresh, Gousto or Mindful Chef. To see how these compare in terms of price, variety or environmental impact, visit our [__home page!__] (https://www.whichmealservice.com/)
+These meal kits typically come with pre-portioned ingredients for a complete meal, including a protein, vegetables, and a starch, along with a recipe and cooking instructions. In the context of the UK, the most popular meal kit providers are Hello Fresh, Gousto or Mindful Chef. To see how these compare in terms of price, variety or environmental impact, visit our [_home page_](https://www.whichmealservice.com/).
 
 ### **2. Meal Replacement Kits**
 
 These meal kits are designed to replace one or more meals per day and often come in the form of shakes, smoothies, or bars. They are usually low in calories and high in protein and other nutrients.
 
-### **3.Snack Kits**
+### **3. Snack Kits**
 
 These kits come with a variety of snacks and treats, often with an emphasis on healthy or organic options.
 
-### **4.Special Diet Kits**
+### **4. Special Diet Kits**
 
 These meal kits cater to specific dietary needs, such as vegetarian, vegan, gluten-free, or low-carb diets. Many meal kit companies also offer vegetarian or vegan meals, check out individual providers to find out more.
 
-### **5.Global Cuisine Kits**
+### **5. Global Cuisine Kits**
 
 These meal kits offer ingredients and recipes from around the world, allowing you to explore new and exotic flavours in the comfort of your own home.
 
-### **6.Condiments kits**
+### **6. Condiments kits**
 
 These offer a collection of sauces, spices or spreads to help you spice up your cooking. They can be a great way of exploring new flavours and cuisines.
 
