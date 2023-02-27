@@ -10,7 +10,7 @@ ogImage:
   url: "/assets/blog/are-meal-kits-worth-it/cover.jpg"
 ---
 
-### \*\*\*\* What are the pros and cons of meal kits?
+### ** What are the pros and cons of meal kits? **
 
 Are you still undecided as to whether meal kits are worth the hype? In this article, we explore how meal kits can make your life easier and contrast this with some cons of meal kits you should be aware of before trying them out.
 
