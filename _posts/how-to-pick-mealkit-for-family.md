@@ -14,7 +14,7 @@ Meal kits are becoming increasingly popular, as they offer a convenient way to c
 
 There is a variety of meal kits available in the UK. Choosing the best meal kit for your family can depend on a number of factors, such as your dietary preferences, cooking skills, and budget. Here are some things to consider when choosing a meal kit:
 
-### ** 1. Dietary Preferences **
+### **1. Dietary Preferences**
 
 Look for a meal kit that offers options that align with your family's dietary preferences and restrictions. For example, if you have a vegetarian or gluten-free diet, choose a meal kit that offers a variety of meals that cater to those dietary needs.
 
@@ -30,7 +30,7 @@ Meal kits can vary greatly in price, so consider your budget when choosing a ser
 
 Some meal kits may require more advanced cooking skills, while others may be more beginner-friendly. Consider your family's cooking skill level and choose a meal kit that offers recipes that align with your abilities.
 
-### **5. Delivery Options and availability across the UK**
+### **5. Delivery options and availability across the UK**
 
 Check the delivery options offered by different meal kit services. Some may offer more flexible delivery schedules or different delivery options, such as a pickup service. Consider your family's schedule and choose a meal kit service that offers the delivery options that best suit your needs. Bear in mind that not all meal kit companies deliver to every corner to the UK. Meal kit companies sometimes do not deliver to locations such as the Isle of Man or Jersey and Guernsey. Make sure to check each individual provider by selecting your post code on their website.
 
