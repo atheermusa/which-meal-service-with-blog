@@ -1,7 +1,7 @@
 ---
 title: " Why are subscription boxes so popular?"
 excerpt: "Our website is focused on meal delivery boxes but other types of subscription boxes have become a popular trend in recent years. From beauty products to snacks and even pet supplies, there seems to be a subscription box for everything. So why are these boxes so popular? In this article, we'll explore the reasons behind the subscription box craze."
-coverImage: "//assets/blog/are-meal-kits-worth-it/sub_box.jpeg
+coverImage: "/assets/blog/are-meal-kits-worth-it/sub_box.jpeg
 date: "2023-04-03T05:35:07.322Z"
 author:
   name: Tereza Rusova
